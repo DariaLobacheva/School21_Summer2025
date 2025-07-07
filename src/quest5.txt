@@ -1,0 +1,3 @@
+1. Захожу в директорию door_management_files
+2, Захожу в ней в door_configuration
+3, Там открываю в текстовому редакторе файл door_1.conf и меню вручную статус на OPEN
